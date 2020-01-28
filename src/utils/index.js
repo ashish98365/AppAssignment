@@ -1,0 +1,14 @@
+export const FORM_FIELD_UPDATE = 'user is typing in form field';
+export const FORM_FIELD_ERROR = 'error in input field';
+export const EMPLOYEE_DETAILS = 'contains detail of employtee';
+export const EMPLOYEE_CREATED = 'employee is successfully created';
+export const EMPLOYEE_EDIT_FIELD = 'employee detail is being edited';
+export const EMPLOYEE_DETAIL_EDITED = 'employee detail is being edited';
+export const NO_ERROR = 'no validation error occur';
+export const DATABASE_NAME = 'employee.db';
+export const TABLE_NAME = 'employee';
+export const COLUMN_ID = 'id';
+export const COLUMN_NAME = 'name';
+export const COLUMN_DESIGNATION = 'designation';
+export const COLUMN_AGE = 'age';
+export const APP_THEME = '#673ab7';
